@@ -3,6 +3,7 @@
 [![DOI](https://zenodo.org/badge/365989601.svg)](https://zenodo.org/badge/latestdoi/365989601)
 
 Material for the article on AGI and Industry 4.0 for ISM-21.
+
 Authors -  Samu Kumpulainen & Vagan Terziyan, 2021
 
 Data in this repository was collected by Samu Kumpulainen.
